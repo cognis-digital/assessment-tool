@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-royal: #4A148C;
+  --color-dark-purple: #311B92;
+  --color-light-gray: #F5F5F5;
+}
+
+body {
+  background-color: var(--color-light-gray);
+  color: #1a1a1a;
+}
